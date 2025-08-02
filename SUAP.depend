@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1753490750 source:c:\users\notah\documents\suap\suap\main.cpp
+	<iostream>
+	"DatabaseManager.h"
+	"Professor.h"
+	"Aluno.h"
+	"Materia.h"
+	"UI.h"
+
+1753491038 source:c:\users\notah\documents\suap\suap\src\aluno.cpp
+	"Aluno.h"
+	<iostream>
+	<limits>
+	<iomanip>
+
+1753491051 c:\users\notah\documents\suap\suap\include\aluno.h
+	"Pessoa.h"
+	"DatabaseManager.h"
+	<string>
+	<vector>
+	<map>
+
+1753491086 c:\users\notah\documents\suap\suap\include\pessoa.h
+	<string>
+
+1753490927 source:c:\users\notah\documents\suap\suap\src\pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+	<limits>
+
+1753489116 source:c:\users\notah\documents\suap\suap\src\professor.cpp
+	"Professor.h"
+	<iostream>
+	<limits>
+
+1753490846 c:\users\notah\documents\suap\suap\include\professor.h
+	"Pessoa.h"
+	"DatabaseManager.h"
+	<string>
+	<vector>
+	<map>
+
+1752927132 source:c:\users\notah\documents\suap\suap\src\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<ctype.h>
+	<TargetConditionals.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<sys/stat.h>
+	<unistd.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<Windows.h>
+	"tclsqlite.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1753490979 source:c:\users\notah\documents\suap\suap\src\databasemanager.cpp
+	"DatabaseManager.h"
+	<iostream>
+
+1753490994 c:\users\notah\documents\suap\suap\include\databasemanager.h
+	<sqlite3.h>
+	<string>
+	<vector>
+	<map>
+
+1752927132 c:\users\notah\documents\suap\suap\include\sqlite3.h
+	<stdarg.h>
+
+1753490954 c:\users\notah\documents\suap\suap\include\materia.h
+	<string>
+	"DatabaseManager.h"
+
+1753490935 source:c:\users\notah\documents\suap\suap\src\materia.cpp
+	"Materia.h"
+	<iostream>
+	<limits>
+
+1753489061 source:c:\users\notah\documents\suap\suap\src\ui.cpp
+	"UI.h"
+	<iostream>
+	<cstdlib>
+	<limits>
+
+1753490790 c:\users\notah\documents\suap\suap\include\ui.h
+	<string>
+	<vector>
+	<map>
+	"DatabaseManager.h"
+	"Professor.h"
+	"Aluno.h"
+	"Materia.h"
+
